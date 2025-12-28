@@ -1,5 +1,5 @@
 
-[ [📦 Скачать сборку]([https://drive.google.com/file/d/1BczcroNPksUpw_v6CjL2_4GNscLDl6ZE/view?usp=drive_link](https://drive.google.com/file/d/1uK1_YXm6A_M138hpDwZybtqPcNvFl6AV/view?usp=sharing)) ]
+[ [📦 Скачать сборку](https://drive.google.com/file/d/1uK1_YXm6A_M138hpDwZybtqPcNvFl6AV/view?usp=sharing) ]
 
 [ [📙 Информация о сборке](https://github.com/YevgeniyKapustin/minecraft-chetjol/wiki) ]
 
